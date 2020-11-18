@@ -1,0 +1,35 @@
+.para{
+    font-size: 35px;
+}
+
+.container{
+    margin: 20px;
+}
+
+.align{
+    margin: 50px;
+}
+
+li{
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.para2{
+    font-size: 20px;
+}
+
+.copyright{
+    font-size: 20px; color: black;
+    margin-left: 50px;
+}
+
+footer {
+    /* padding: 10px; */
+    margin-top: 8%;
+  }
+
+  .foot {
+    /* padding: 10px; */
+    margin-top: 11%;
+  }
